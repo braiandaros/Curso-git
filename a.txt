@@ -2,3 +2,4 @@ Testando uma
 atualização de 
 arquivos pelo git hub
 com o git
+testando log 
