@@ -7,4 +7,5 @@ c
 d
 e
 
-fincinalidade 1 teste
+funcionalidade 1 teste
+funcionalidade 2 teste 
