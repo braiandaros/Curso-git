@@ -25,3 +25,7 @@ __fazendo teste do *parafo h2*__
     3. teste c
 2. segundo
 3. terceiro
+
+
+imagem
+![logo python](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw0ZvhO-0YpT2NnOZBV57XzB&ust=1721262264083000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi5suDnrIcDFQAAAAAdAAAAABAE)
