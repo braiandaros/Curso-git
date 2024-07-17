@@ -32,3 +32,10 @@ __fazendo teste do *parafo h2*__
 
 ## liks 
 [python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
+
+## codigo 
+
+''' javascript
+function soma(a+b) {
+    return a+b;
+}
