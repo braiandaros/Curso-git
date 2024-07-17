@@ -28,4 +28,4 @@ __fazendo teste do *parafo h2*__
 
 
 imagem
-![logo python](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw0ZvhO-0YpT2NnOZBV57XzB&ust=1721262264083000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi5suDnrIcDFQAAAAAdAAAAABAE)
+![logo python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
