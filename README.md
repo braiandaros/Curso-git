@@ -42,5 +42,5 @@ function soma(a, b) {
 '''
 
 ## lista task
--[x] efetuadas
--[ ] nao efetuadas 
+- [x] efetuadas
+- [ ] nao efetuadas 
