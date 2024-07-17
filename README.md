@@ -27,5 +27,8 @@ __fazendo teste do *parafo h2*__
 3. terceiro
 
 
-imagem
+## imagem
 ![logo python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
+
+## liks 
+[python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
