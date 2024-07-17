@@ -40,3 +40,7 @@ function soma(a, b) {
     return a + b;
 }
 '''
+
+## lista task
+-[x] efetuadas
+-[ ] nao efetuadas 
