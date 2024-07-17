@@ -35,7 +35,8 @@ __fazendo teste do *parafo h2*__
 
 ## codigo 
 
-''' javascript
-function soma(a+b) {
-    return a+b;
+'''javascript
+function soma(a, b) {
+    return a + b;
 }
+'''
